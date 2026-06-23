@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# PyTorch
+*.pth
+*.pt
+checkpoints/
+
+# Datasets e Modelos (NUNCA commitar amostras reais de malware!)
+**/datasets/**/*.exe
+**/datasets/**/*.dll
+**/datasets/**/*.bin
+**/datasets/**/*.sample
+**/datasets/**/*.malware
+*.zip
+*.tar.gz
+*.rar
+*.7z
+models/trained/
+*.h5
+*.pkl
+*.joblib
+
+# Resultados de Experimentos
+**/experimentos/**/checkpoints/
+**/experimentos/**/runs/
+**/experimentos/**/outputs/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporários
+*.log
+*.tmp
+temp/
+tmp/
+
+# Documentos de trabalho (opcional)
+**/rascunhos/
+**/wip/
