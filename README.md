@@ -6,13 +6,13 @@
 [![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow.svg)]()
 
 **Autor**: Gabriel  
-**Instituição**: [Nome da Universidade]  
-**Orientador**: [Nome do Orientador]  
-**Previsão de Defesa**: Março 2027
+**Instituição**: Universidade de Brasília (UnB) 
+**Orientador**: -  
+**Previsão de Defesa**: Novembro 2027
 
 ---
 
-## 📋 Resumo do Projeto
+##  Resumo do Projeto
 
 Este repositório contém todos os estudos, experimentos e desenvolvimento do meu Trabalho de Conclusão de Curso (TCC) sobre **classificação automática de famílias de malware** usando **Deep Learning** e **representação visual de binários**.
 
@@ -30,7 +30,7 @@ Conversão de arquivos binários (PE/ELF) em **imagens** e uso de **CNNs (Convol
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 ### Geral
 Desenvolver e avaliar um sistema de classificação automática de famílias de malware baseado em CNNs e representação visual de binários.
@@ -45,7 +45,7 @@ Desenvolver e avaliar um sistema de classificação automática de famílias de 
 
 ---
 
-## 📁 Estrutura do Repositório
+##  Estrutura do Repositório
 
 ```
 estudo-tcc/
@@ -100,7 +100,7 @@ estudo-tcc/
 
 ---
 
-## 🚀 Pipeline do TCC
+##  Pipeline do TCC
 
 ```
 ┌──────────────┐
@@ -137,7 +137,7 @@ estudo-tcc/
 
 ---
 
-## 📚 Papers Principais
+##  Papers Principais
 
 ### Visual Classification
 1. **Malware Images: Visualization and Automatic Classification** (Nataraj et al., 2011) ⭐⭐⭐⭐⭐
@@ -173,7 +173,7 @@ estudo-tcc/
 
 ---
 
-## 🔧 Stack Tecnológico
+##  Stack Tecnológico
 
 ### Análise de Malware
 - **Ghidra**: Reverse engineering e análise estática
@@ -201,7 +201,7 @@ estudo-tcc/
 
 ---
 
-## 🚦 Status do Projeto
+##  Status do Projeto
 
 ### Fase 1: Fundamentos (Jul 2026 - Out 2026) 🟢 **EM PROGRESSO**
 - [x] Estruturar repositório profissionalmente
@@ -266,7 +266,7 @@ estudo-tcc/
 
 ---
 
-## 🤝 Contribuição e Colaboração
+##  Contribuição e Colaboração
 
 Este é um projeto acadêmico individual, mas **feedback é bem-vindo**!
 
@@ -276,7 +276,7 @@ Este é um projeto acadêmico individual, mas **feedback é bem-vindo**!
 
 ---
 
-## 📝 Licença
+##  Licença
 
 Este projeto está licenciado sob a **MIT License** - veja [LICENSE](LICENSE) para detalhes.
 
@@ -284,19 +284,19 @@ Este projeto está licenciado sob a **MIT License** - veja [LICENSE](LICENSE) pa
 
 ---
 
-## 📧 Contato
+##  Contato
 
 **Gabriel**  
 📧 Email: [seu-email@dominio.com]  
 🐙 GitHub: [@Gabreeel](https://github.com/Gabreeel)  
 🔗 LinkedIn: [seu-linkedin]
 
-**Orientador**: [Nome do Orientador]  
-📧 Email: [orientador@universidade.edu]
+**Orientador**: - 
+📧 Email: -
 
 ---
 
-## 🙏 Agradecimentos
+##  Agradecimentos
 
 - **OpenSecurityTraining2**: Curso gratuito de arquitetura de alta qualidade
 - **Udemy**: Cursos de ML e Deep Learning
@@ -305,7 +305,7 @@ Este projeto está licenciado sob a **MIT License** - veja [LICENSE](LICENSE) pa
 
 ---
 
-## 📚 Recursos Adicionais
+##  Recursos Adicionais
 
 ### Livros
 - *Practical Malware Analysis* (Sikorski & Honig, 2012)
